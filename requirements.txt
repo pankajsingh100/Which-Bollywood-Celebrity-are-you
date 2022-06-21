@@ -6,7 +6,6 @@ vggface
 sklearn
 metrics
 pairwise
-PIL
 os
 cv2
 mtcnn
