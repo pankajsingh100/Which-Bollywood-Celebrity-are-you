@@ -3,7 +3,6 @@ requests
 keras_vggface
 utils
 vggface
-pickle
 sklearn
 metrics
 pairwise
